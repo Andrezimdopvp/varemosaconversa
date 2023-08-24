@@ -1,0 +1,66 @@
+body
+{
+	background: lightblue;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		margin-top: 50px;
+	}
+
+
+#player1Name , #player2Name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#wordDisplay
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#enviar
+{
+	border-radius: 10px;
+	background-color: blueviolet;
+	font-size: 20px;
+	color: white;
+}
+.Título{
+	width: 100%;
+	font-size: 40px;
+}
+#sala{
+	border-radius: 15px;
+	width: 300px;
+}
+#adsa{
+	border-radius: 5px;
+	background-color: cadetblue;
+	color: white;
+
+}
+#exit{
+	width: 100px;
+	height: 50px;
+	font-size: 30px;
+	margin: 10px;
+	font-style: oblique;
+	background-color: cornflowerblue;
+}

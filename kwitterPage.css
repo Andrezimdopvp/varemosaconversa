@@ -1,0 +1,35 @@
+#corpo{
+    background-color: aquamarine;
+}
+#mensagens{
+    background-color: aliceblue;
+    width: 50px;
+}
+#send{
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    height: 50px;
+    width: 85px;
+    font-size: 21px;
+    box-shadow: 20px;
+    border-radius: 10px;
+}
+#mensagenes{
+    height: 30px;
+    width: 200px;
+    box-shadow: 20px;
+    border-radius: 10px;
+}
+#men{
+    background-color: white;
+    height: 500px;
+    width: 100%;
+    border-radius: 10px;
+    border-color: black;
+}
+#desconect{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color: rgb(164, 136, 190);
+}
